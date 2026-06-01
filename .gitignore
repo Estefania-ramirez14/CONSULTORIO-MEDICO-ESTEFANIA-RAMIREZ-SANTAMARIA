@@ -1,16 +1,23 @@
-# Compiled class file
+# Archivos compilados de Java
 *.class
 
-# Log file
+# Archivos temporales
+*.swp
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+
+# Carpetas generadas por el IDE o compilación
+out/
+target/
+build/
+bin/
+
+# Archivos de logs
 *.log
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Archivos comprimidos o empaquetados
 *.jar
 *.war
 *.nar
@@ -19,6 +26,10 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Java
 hs_err_pid*
 replay_pid*
