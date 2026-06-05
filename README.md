@@ -1,34 +1,34 @@
-# Consultorio Médico
-
-Proyecto para un consultorio médico, desarrollado para la administración de citas, registro de médicos, pacientes y la relación entre ellos.
+# Sistema de Administración de Citas Médicas
 
 ## Instalación y configuración
 
-1. Instalar Java JDK.
-2. Instalar un IDE, como IntelliJ IDEA, NetBeans o Visual Studio Code.
-3. Clonar o descargar este repositorio.
-4. Abrir el proyecto en el IDE seleccionado.
-5. Verificar que el JDK esté configurado correctamente.
-6. Ejecutar el archivo principal del programa.
+1. Clonar el repositorio desde GitHub.
+2. Abrir el proyecto en IntelliJ IDEA.
+3. Verificar que Java JDK esté configurado correctamente.
+4. Compilar el proyecto.
+5. Ejecutar la clase principal Main.
 
 ## Uso del programa
 
-El programa permite administrar información relacionada con un consultorio médico.
+El sistema permite:
 
-Sus funciones principales son:
-
-- Registrar médicos.
-- Registrar pacientes.
-- Administrar citas médicas.
-- Relacionar médicos con pacientes.
-- Consultar la información registrada.
-
-Para utilizar el programa, se debe ejecutar desde el IDE y seguir las instrucciones que se muestran en pantalla o consola.
+* Iniciar sesión mediante administradores.
+* Registrar doctores.
+* Registrar pacientes.
+* Crear citas médicas.
+* Relacionar citas con doctores y pacientes.
+* Consultar información almacenada.
+* Guardar información en archivos CSV.
 
 ## Créditos
 
-Proyecto elaborado por: Estefanía Ramírez Santamaría.
+Desarrollado por:
+
+Estefanía Ramírez Santamaría
 
 ## Licencia
+
+MIT License.
+
 
 Este proyecto se encuentra bajo la licencia MIT.
